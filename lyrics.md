@@ -3,8 +3,7 @@
 
 ### Kool Shen
 
-```
-diff
+```diff
 - test\
 - test2
 
