@@ -41,7 +41,7 @@
 ### JoeyStarr
 
 ```diff
-+Putain, c'est en me disant "j'ai jamais demandé à t'avoir!
++Putain, c'est en me disant "j'ai jamais demandé à t'avoir !
 +"C'est avec ces formules, trop saoulées, enfin faut croire
 +Que mon père a contribué à me lier avec la rue
 +J'ai eu l'illusion de trouver mieux, j'ai vu
@@ -58,7 +58,7 @@
 +Croyant la jouer fine, il ne voulait pas, ne cherchait même pas
 +À ranger ce putain d'orgueil qui tranchait les liens familiaux
 +Chaque jour un peu plus
-+J'avais pas l'impression d'être plus coté qu'une caisse à l'argus+
++J'avais pas l'impression d'être plus coté qu'une caisse à l'argus
 +Donc j'ai dû renoncer, trouver mes propres complicesMes partenaires de glisse, désolé si je m'immisce
 ```
 
