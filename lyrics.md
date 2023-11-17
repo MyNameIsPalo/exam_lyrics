@@ -38,7 +38,6 @@
 ! Si tu veux pas qu'il
 ```
 
-<<<<<<< Updated upstream
 ### JoeyStarr
 
 ```diff
