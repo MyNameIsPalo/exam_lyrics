@@ -14,7 +14,7 @@
 - Certains d'entre eux même s'en sortiront mieux
 - Mais pour les autres, c'est clair, ça s'ra pas facile
 - Faut pas s'voiler la face, il suffit pas d'vendre des kils
-- Faut tenir le terrain pour le lendemain-
+- Faut tenir le terrain pour le lendemain
 - S'assurer que les siens aillent bien, éviter les coups de surin
 - Afin de garder son bien intact
 - Son équipe compacte, soudée
@@ -26,5 +26,14 @@
 - J'ai pas de conseil à donner, mais si tu veux pas qu'il glisse
 - Regarde-le, quand il parle, écoute-le!
 - Le laisse pas chercher ailleurs l'amour qu'il devrait y avoir dans tes yeux
+```
 
+### Choeur
+
+```diff
+# Laisse pas traîner ton fils
+# Si tu ne veux pas qu'il glisse
+# Qu'il te ramène du vice
+# Laisse pas traîner ton fils
+# Si tu veux pas qu'il
 ```
